@@ -1,0 +1,1 @@
+修复retransformerclasses实现的内存马，使用example4，我们可以dump出来 对应的类，通过对对应类的检查，发现其是恶意的，这里我们使用retransformerclasses来实现对这个类的修复
